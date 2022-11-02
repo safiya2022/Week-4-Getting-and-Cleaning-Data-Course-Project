@@ -1,6 +1,6 @@
 library(dplyr)
 library(data.table)
-setwd("C:/Users/09833/Documents/R_training/Data_cleaning/week4")
+setwd("C:/xxxxx/R_training/Data_cleaning/week4") 
 
 datapath = ("./getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset")
 files = list.files(datapath, recursive=TRUE)
